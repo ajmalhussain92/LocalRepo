@@ -1,1 +1,1 @@
-This is a file containing information about commiting anything!
+# This is a file containing information about commiting anything!
